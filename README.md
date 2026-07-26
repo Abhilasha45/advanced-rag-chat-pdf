@@ -76,7 +76,7 @@ streamlit run app.py
 - Multi-document comparison
 - Performance optimization
 
-## 👩‍💻 Author
+## 👩‍💻 Project By
 
 **Abhilasha Mishra**
 
