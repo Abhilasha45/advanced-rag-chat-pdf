@@ -25,6 +25,16 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that allows users
 - PyMuPDF
 - Git & GitHub
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](assets/home.png)
+
+### 💬 Chat Interface
+
+![Chat Interface](assets/chat.png)
+
 ## 📂 Project Structure
 
 ```
@@ -67,14 +77,17 @@ Run the application:
 streamlit run app.py
 ```
 
-## 📌 Future Enhancements
+## 🚀 Roadmap
 
-- Premium UI redesign
-- FAISS index caching
-- Confidence score for responses
-- Enhanced source citations
-- Multi-document comparison
-- Performance optimization
+- [x] PDF Upload
+- [x] Semantic Search
+- [x] Gemini Integration
+- [x] Conversation History
+- [x] PDF Summarization
+- [ ] Premium UI
+- [ ] FAISS Caching
+- [ ] Confidence Score
+- [ ] Multi-PDF Comparison
 
 ## 👩‍💻 Project By
 
