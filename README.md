@@ -44,7 +44,7 @@ advanced-rag-chat/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/advanced-rag-chat-pdf.git
+git clone https://github.com/Abhilasha45/advanced-rag-chat-pdf.git
 ```
 
 Move into the project directory:
